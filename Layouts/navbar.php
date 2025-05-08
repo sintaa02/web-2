@@ -84,8 +84,20 @@
                     <a href="?url=prodi" class="nav-link">
                         <i class="nav-icon fas fa-th"></i>
                         <p>
-                            Program Studi
+                            Program Studi 
                             <span class="right badge badge-danger">New</span>
+                        </p>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                <li class="nav-item">
+                    <a href="?url=users" class="nav-link">
+                        <i class="nav-icon fas fa-th"></i>
+                        <p>
+                            USERS
                         </p>
                     </a>
                 </li>
